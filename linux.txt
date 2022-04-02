@@ -1,1 +1,1 @@
-linux os macos
+os macos
